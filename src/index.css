@@ -102,7 +102,7 @@ a:hover {
 /* Sidebar */
 .brand button {
     font-size: 3rem;
-    padding: .5rem;
+    padding: 0.5rem;
     background: none;
     border: none;
     color: #FFFFFF;
@@ -122,7 +122,7 @@ a:hover {
     flex: 0 1 34rem;
     margin: 1rem;
     height: 5rem;
-    border-bottom: .1rem #c0c0c0 solid;
+    border-bottom: 0.1rem #c0c0c0 solid;
 }
 .sidebar.open {
     transform: translateX(0);
